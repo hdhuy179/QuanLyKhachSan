@@ -20,11 +20,11 @@ namespace _1._5_QuanLyKhachSan
                             "where IDPhong = " + frm.txtMaPhong_Phong.Text;
             }
             else if (action == 2)
-            {
+            {      
                 MessageBox.Show("Không thể sửa nội thất trong phòng. Hãy xóa và thêm đối tượng mới");
             }
             else if (action == 3)
-            {
+            {  
                 string GioiTinh = "null";
                 if (frm.rbtnNam.Checked == true) GioiTinh = "Nam";
                 else if (frm.rbtnNu.Checked == true) GioiTinh = "Nu";
