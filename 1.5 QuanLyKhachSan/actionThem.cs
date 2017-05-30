@@ -10,7 +10,7 @@ namespace _1._5_QuanLyKhachSan
 {
     class actionThem
     {
-        public void action_Them(int action,frmMain frm)
+        public void action_Them(int action, frmMain frm)
         {
             string sql = "";
             if (action == 1)

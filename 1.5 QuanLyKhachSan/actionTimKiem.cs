@@ -12,7 +12,7 @@ namespace _1._5_QuanLyKhachSan
         {
             string sql = "";
             if (action == 1)
-            { 
+            {
                 if (frm.txtMaPhong_Phong.Text != "") sql += " and IDPhong = " + frm.txtMaPhong_Phong.Text;
                 if (frm.txtPhongSo_Phong.Text != "") sql += " and PhongSo = " + frm.txtPhongSo_Phong.Text;
                 if (frm.cbLoaiPhong_Phong.Checked == true) sql += " and lp.IDLoaiPhong = " + frm.cbbLoaiPhong_Phong.SelectedValue.ToString();

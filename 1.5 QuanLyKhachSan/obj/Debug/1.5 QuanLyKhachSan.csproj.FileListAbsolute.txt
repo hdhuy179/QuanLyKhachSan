@@ -9,3 +9,14 @@ C:\Users\hoangdinhhuy\Desktop\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\obj\Debug\1.
 C:\Users\hoangdinhhuy\Desktop\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\obj\Debug\1.5 QuanLyKhachSan.exe
 C:\Users\hoangdinhhuy\Desktop\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\obj\Debug\1.5 QuanLyKhachSan.pdb
 C:\Users\hoangdinhhuy\Desktop\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\obj\Debug\_1._5_QuanLyKhachSan.frmNhaPhatTrien.resources
+C:\Users\hoangdinhhuy\Desktop\C#\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\bin\Debug\1.5 QuanLyKhachSan.exe.config
+C:\Users\hoangdinhhuy\Desktop\C#\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\obj\Debug\1.5 QuanLyKhachSan.exe
+C:\Users\hoangdinhhuy\Desktop\C#\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\obj\Debug\1.5 QuanLyKhachSan.pdb
+C:\Users\hoangdinhhuy\Desktop\C#\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\bin\Debug\1.5 QuanLyKhachSan.exe
+C:\Users\hoangdinhhuy\Desktop\C#\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\bin\Debug\1.5 QuanLyKhachSan.pdb
+C:\Users\hoangdinhhuy\Desktop\C#\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\obj\Debug\1.5 QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\hoangdinhhuy\Desktop\C#\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\obj\Debug\_1._5_QuanLyKhachSan.frmDangNhap.resources
+C:\Users\hoangdinhhuy\Desktop\C#\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\obj\Debug\_1._5_QuanLyKhachSan.frmMain.resources
+C:\Users\hoangdinhhuy\Desktop\C#\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\obj\Debug\_1._5_QuanLyKhachSan.frmNhaPhatTrien.resources
+C:\Users\hoangdinhhuy\Desktop\C#\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\obj\Debug\_1._5_QuanLyKhachSan.Properties.Resources.resources
+C:\Users\hoangdinhhuy\Desktop\C#\1.5 QuanLyKhachSan\1.5 QuanLyKhachSan\obj\Debug\1.5 QuanLyKhachSan.csproj.GenerateResource.Cache
